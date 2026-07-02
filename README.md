@@ -41,6 +41,9 @@ Yes. If you made a timing error or want to change a runner's name after saving, 
 **Does SplitWatch scale nicely on tablets and iPads?**
 Yes. The entire user interface features responsive scaling dynamic up to 2.0x baseline proportions. Text elements, layout paddings, and control circles expand uniformly to maximize real estate and readability on massive screens.
 
+**Is it easy to tell that a button was pressed?**
+Yes. Stopwatch cards flash white/black when lap is pressed, red when stop is pressed, green when start is pressed, and white/black when reset is pressed. If you have haptics turned on, the phone will slightly vibrate. Lap text sizes are also increased to make seeing real-time splits easier.
+
 **Is my data saved if I close the app?**
 Yes. All session history is safely stored on your device's local storage and persists even if the app is fully closed or restarted.
 
