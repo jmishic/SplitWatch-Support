@@ -57,4 +57,4 @@ mishicjustin@gmail.com
 
 ---
 
-*SplitWatch is developed independently. © 2025 Justin Mishic*
+*SplitWatch is developed independently. © 2026 Justin Mishic*
